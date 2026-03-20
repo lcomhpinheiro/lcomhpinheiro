@@ -19,6 +19,10 @@ I started when I was 12 years old, with help od my older sister, she help me to 
 <h3> <a href="https://github.com/lcomhpinheiro/dalziza">Dalziza</a> </h3>
 - An automation script for downloading audio from Instagram, YouTube, and Facebook, then equalizing and converting it to MP3.
 <br><br>
+<h2 align="center">Websites</h2>
+<h3><a>Money converter</a></h3>
+- A simple and responsive currency converter built with HTML, CSS, and JavaScript that uses a daily exchange rate API. It allows users to quickly convert values between BRL, USD, and EUR with dynamic updates.
+<br><br>
 <div align="center">
 
 # i use arch btw

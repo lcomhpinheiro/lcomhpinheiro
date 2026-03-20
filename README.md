@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-I'm Luiz and I'm a amateur  brazillian programmer<br><br>
+I'm Luiz and I'm a brazillian programmer<br><br>
 
 
 <h1 align="center">How I Started</h1>
